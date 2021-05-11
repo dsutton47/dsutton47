@@ -4,6 +4,7 @@ recent work from my last semester of GCU. While the vast majority of the work di
 I am also well versed in Java and PhP with the intention of broadening my skills and incorporating other languages.
 
 Best ways to get in touch with me are to use the following email and phone number:
+
 Email: dominic.sutton47@gmail.com
 Phone: 253-218-9636
 
